@@ -431,10 +431,3 @@ table.rdata tr td.no-wd {
     width: 50px;
 }
 
-/* for figures */
-.figure {
-    text-align: center;    
-}
-.figure .caption {
-    font-style: italic;
-}
